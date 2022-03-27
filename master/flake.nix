@@ -11,6 +11,7 @@
   inputs.src-nestegg-master.ref   = "refs/heads/master";
   inputs.src-nestegg-master.owner = "capocasa";
   inputs.src-nestegg-master.repo  = "nim-nestegg";
+  inputs.src-nestegg-master.dir   = "";
   inputs.src-nestegg-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
